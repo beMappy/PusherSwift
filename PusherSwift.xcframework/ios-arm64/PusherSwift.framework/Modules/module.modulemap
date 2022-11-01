@@ -6,6 +6,6 @@ framework module PusherSwift {
 }
 
 module PusherSwift.Swift {
-    header "PusherSwift-Swift.h"
-    requires objc
+  header "PusherSwift-Swift.h"
+  requires objc
 }
