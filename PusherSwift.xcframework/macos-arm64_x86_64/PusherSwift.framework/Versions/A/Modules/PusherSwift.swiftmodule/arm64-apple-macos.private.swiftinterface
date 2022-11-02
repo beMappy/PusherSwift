@@ -1,0 +1,277 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-module-flags: -target arm64-apple-macos10.15 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name PusherSwift
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import CryptoKit
+import Foundation
+import NWWebSocket
+import Network
+@_exported import PusherSwift
+import Swift
+import TweetNacl
+import _Concurrency
+@objcMembers @objc open class PusherConnection : ObjectiveC.NSObject {
+  @objc final public let url: Swift.String
+  @objc final public let key: Swift.String
+  @objc open var options: PusherSwift.PusherClientOptions
+  @objc open var globalChannel: PusherSwift.GlobalChannel!
+  @objc open var socketId: Swift.String?
+  @objc open var connectionState: PusherSwift.ConnectionState
+  @objc open var channels: PusherSwift.PusherChannels
+  open var socket: NWWebSocket.NWWebSocket!
+  @objc open var URLSession: Foundation.URLSession
+  @objc open var userDataFetcher: (() -> PusherSwift.PusherPresenceChannelMember)?
+  open var reconnectAttemptsMax: Swift.Int?
+  @objc open var reconnectAttempts: Swift.Int
+  open var maxReconnectGapInSeconds: Swift.Double?
+  @objc weak open var delegate: PusherSwift.PusherDelegate? {
+    @objc get
+    @objc set
+  }
+  @objc open var pongResponseTimeoutInterval: Swift.Double
+  @objc open var activityTimeoutInterval: Foundation.TimeInterval
+  public init(key: Swift.String, socket: NWWebSocket.NWWebSocket, url: Swift.String, options: PusherSwift.PusherClientOptions, URLSession: Foundation.URLSession = Foundation.URLSession.shared)
+  @objc deinit
+  @objc open func sendEvent(event: Swift.String, data: Any, channel: PusherSwift.PusherChannel? = nil)
+  @objc open func disconnect()
+  @objc open func connect()
+  @objc open func handleError(error: PusherSwift.PusherError)
+  @objc open func handleEvent(event: PusherSwift.PusherEvent)
+}
+public enum PusherChannelType {
+  case `private`
+  case presence
+  case normal
+  public init(name: Swift.String)
+  public static func type(forName name: Swift.String) -> PusherSwift.PusherChannelType
+  public static func isPresenceChannel(name: Swift.String) -> Swift.Bool
+  public static func == (a: PusherSwift.PusherChannelType, b: PusherSwift.PusherChannelType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct EventHandler {
+}
+@objc extension PusherSwift.PusherClientOptions {
+  @objc convenience dynamic public init(ocAuthMethod authMethod: PusherSwift.OCAuthMethod, autoReconnect: Swift.Bool = true, ocHost host: PusherSwift.OCPusherHost = PusherHost.defaultHost.toObjc(), port: Foundation.NSNumber? = nil, useTLS: Swift.Bool = true, activityTimeout: Foundation.NSNumber? = nil)
+  @objc convenience dynamic public init(ocAuthMethod authMethod: PusherSwift.OCAuthMethod, attemptToReturnJSONObject: Swift.Bool = true, autoReconnect: Swift.Bool = true, ocHost host: PusherSwift.OCPusherHost = PusherHost.defaultHost.toObjc(), port: Foundation.NSNumber? = nil, useTLS: Swift.Bool = true, activityTimeout: Foundation.NSNumber? = nil)
+  @objc convenience dynamic public init(authMethod: PusherSwift.OCAuthMethod)
+  @objc dynamic public func setAuthMethod(authMethod: PusherSwift.OCAuthMethod)
+}
+@objc extension PusherSwift.Pusher {
+  @objc dynamic public func subscribe(channelName: Swift.String) -> PusherSwift.PusherChannel
+  @objc dynamic public func subscribe(channelName: Swift.String, onMemberAdded: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)? = nil, onMemberRemoved: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)? = nil, onSubscriptionCountChanged: ((Swift.Int) -> Swift.Void)? = nil) -> PusherSwift.PusherChannel
+  @objc dynamic public func subscribeToPresenceChannel(channelName: Swift.String) -> PusherSwift.PusherPresenceChannel
+  @objc dynamic public func subscribeToPresenceChannel(channelName: Swift.String, onMemberAdded: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)? = nil, onMemberRemoved: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)? = nil, onSubscriptionCountChanged: ((Swift.Int) -> Swift.Void)? = nil) -> PusherSwift.PusherPresenceChannel
+  @objc convenience dynamic public init(withAppKey key: Swift.String, options: PusherSwift.PusherClientOptions)
+  @objc convenience dynamic public init(withKey key: Swift.String)
+}
+@objc public protocol PusherDelegate {
+  @objc optional func debugLog(message: Swift.String)
+  @objc optional func changedConnectionState(from old: PusherSwift.ConnectionState, to new: PusherSwift.ConnectionState)
+  @objc optional func subscribedToChannel(name: Swift.String)
+  @objc optional func failedToSubscribeToChannel(name: Swift.String, response: Foundation.URLResponse?, data: Swift.String?, error: Foundation.NSError?)
+  @objc optional func failedToDecryptEvent(eventName: Swift.String, channelName: Swift.String, data: Swift.String?)
+  @objc(receivedError:) optional func receivedError(error: PusherSwift.PusherError)
+}
+public enum PusherHost {
+  case host(Swift.String)
+  case cluster(Swift.String)
+  public static var defaultHost: PusherSwift.PusherHost {
+    get
+  }
+  public var stringValue: Swift.String {
+    get
+  }
+}
+extension PusherSwift.PusherHost {
+  public func toObjc() -> PusherSwift.OCPusherHost
+  public static func fromObjc(source: PusherSwift.OCPusherHost) -> PusherSwift.PusherHost
+}
+@objc @_hasMissingDesignatedInitializers @objcMembers open class PusherError : ObjectiveC.NSObject {
+  final public let code: Swift.Int?
+  @objc final public let message: Swift.String
+  @objc deinit
+}
+public struct QueuedClientEvent {
+  public let name: Swift.String
+  public let data: Any
+}
+extension PusherSwift.AuthMethod {
+  public func toObjc() -> PusherSwift.OCAuthMethod
+  public static func fromObjc(source: PusherSwift.OCAuthMethod) -> PusherSwift.AuthMethod
+}
+extension PusherSwift.PusherConnection : NWWebSocket.WebSocketConnectionDelegate {
+  public func webSocketDidReceiveMessage(connection: NWWebSocket.WebSocketConnection, string: Swift.String)
+  public func webSocketDidReceivePong(connection: NWWebSocket.WebSocketConnection)
+  public func webSocketDidDisconnect(connection: NWWebSocket.WebSocketConnection, closeCode: Network.NWProtocolWebSocket.CloseCode, reason: Foundation.Data?)
+  public func webSocketViabilityDidChange(connection: NWWebSocket.WebSocketConnection, isViable: Swift.Bool)
+  public func webSocketDidAttemptBetterPathMigration(result: Swift.Result<NWWebSocket.WebSocketConnection, Network.NWError>)
+  public func webSocketDidConnect(connection: NWWebSocket.WebSocketConnection)
+  public func webSocketDidReceiveMessage(connection: NWWebSocket.WebSocketConnection, data: Foundation.Data)
+  public func webSocketDidReceiveError(connection: NWWebSocket.WebSocketConnection, error: Network.NWError)
+}
+@objc public enum ConnectionState : Swift.Int {
+  case connecting
+  case connected
+  case disconnecting
+  case disconnected
+  case reconnecting
+  public func stringValue() -> Swift.String
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc @objcMembers open class PusherChannel : ObjectiveC.NSObject {
+  open var eventHandlers: [Swift.String : [PusherSwift.EventHandler]] {
+    get
+    set
+  }
+  public var subscriptionCount: Swift.Int? {
+    get
+  }
+  @objc open var subscribed: Swift.Bool
+  @objc final public let name: Swift.String
+  @objc weak open var connection: PusherSwift.PusherConnection?
+  open var unsentEvents: [PusherSwift.QueuedClientEvent]
+  final public let type: PusherSwift.PusherChannelType
+  @objc public var auth: PusherSwift.PusherAuth?
+  @objc open var onSubscriptionCountChanged: ((Swift.Int) -> Swift.Void)?
+  @objc public init(name: Swift.String, connection: PusherSwift.PusherConnection, auth: PusherSwift.PusherAuth? = nil, onSubscriptionCountChanged: ((Swift.Int) -> Swift.Void)? = nil)
+  @objc @discardableResult
+  open func bind(eventName: Swift.String, eventCallback: @escaping (PusherSwift.PusherEvent) -> Swift.Void) -> Swift.String
+  @objc open func unbind(eventName: Swift.String, callbackId: Swift.String)
+  @objc open func unbindAll()
+  @objc open func unbindAll(forEventName eventName: Swift.String)
+  @objc open func handleEvent(event: PusherSwift.PusherEvent)
+  @objc open func trigger(eventName: Swift.String, data: Any)
+  @objc deinit
+}
+@objc public protocol Authorizer {
+  @objc func fetchAuthValue(socketID: Swift.String, channelName: Swift.String, completionHandler: @escaping (PusherSwift.PusherAuth?) -> Swift.Void)
+}
+@_inheritsConvenienceInitializers @objcMembers @objc open class PusherChannels : ObjectiveC.NSObject {
+  @objc open var channels: [Swift.String : PusherSwift.PusherChannel] {
+    @objc get
+    @objc set
+  }
+  @objc public func find(name: Swift.String) -> PusherSwift.PusherChannel?
+  @objc public func findPresence(name: Swift.String) -> PusherSwift.PusherPresenceChannel?
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers @objcMembers @objc open class GlobalChannel : PusherSwift.PusherChannel {
+  open var globalCallbacks: [Swift.String : (PusherSwift.PusherEvent) -> Swift.Void]
+  @objc override open func unbindAll()
+  @objc deinit
+}
+@objc public class PusherAuth : ObjectiveC.NSObject {
+  final public let auth: Swift.String
+  final public let channelData: Swift.String?
+  final public let sharedSecret: Swift.String?
+  public init(auth: Swift.String, channelData: Swift.String? = nil, sharedSecret: Swift.String? = nil)
+  @objc deinit
+}
+@objcMembers @objc public class OCAuthMethod : ObjectiveC.NSObject {
+  @objc public init(type: Swift.Int)
+  @objc public init(authEndpoint: Swift.String)
+  @objc public init(authRequestBuilder: PusherSwift.AuthRequestBuilderProtocol)
+  @objc public init(secret: Swift.String)
+  @objc public init(authorizer: PusherSwift.Authorizer)
+  @objc deinit
+}
+@objcMembers @objc public class PusherClientOptions : ObjectiveC.NSObject {
+  public var authMethod: PusherSwift.AuthMethod
+  @objc final public let attemptToReturnJSONObject: Swift.Bool
+  @objc final public let autoReconnect: Swift.Bool
+  @objc final public let host: Swift.String
+  @objc final public let port: Swift.Int
+  @objc final public let path: Swift.String?
+  @objc final public let useTLS: Swift.Bool
+  final public let activityTimeout: Foundation.TimeInterval?
+  @nonobjc public init(authMethod: PusherSwift.AuthMethod = .noMethod, attemptToReturnJSONObject: Swift.Bool = true, autoReconnect: Swift.Bool = true, host: PusherSwift.PusherHost = .defaultHost, port: Swift.Int? = nil, path: Swift.String? = nil, useTLS: Swift.Bool = true, activityTimeout: Foundation.TimeInterval? = nil)
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @objcMembers open class PusherEvent : ObjectiveC.NSObject, Foundation.NSCopying {
+  @objc final public let eventName: Swift.String
+  @objc final public let channelName: Swift.String?
+  @objc final public let data: Swift.String?
+  @objc final public let userId: Swift.String?
+  @objc public func property(withKey key: Swift.String) -> Any?
+  @objc public func copy(with zone: ObjectiveC.NSZone? = nil) -> Any
+  @objc deinit
+}
+@objc extension PusherSwift.PusherConnection {
+  @objc dynamic public var OCReconnectAttemptsMax: Foundation.NSNumber? {
+    @objc get
+    @objc set(newValue)
+  }
+  @objc dynamic public var OCMaxReconnectGapInSeconds: Foundation.NSNumber? {
+    @objc get
+    @objc set(newValue)
+  }
+}
+@objcMembers @objc public class PusherPresenceChannelMember : ObjectiveC.NSObject {
+  @objc final public let userId: Swift.String
+  @objc final public let userInfo: Any?
+  @objc public init(userId: Swift.String, userInfo: Any? = nil)
+  @objc deinit
+}
+extension PusherSwift.PusherError {
+  @objc dynamic public var codeOC: Foundation.NSNumber? {
+    @objc get
+  }
+}
+public typealias PusherUserInfoObject = [Swift.String : Swift.AnyObject]
+@_hasMissingDesignatedInitializers @objcMembers @objc open class PusherPresenceChannel : PusherSwift.PusherChannel {
+  @objc open var members: [PusherSwift.PusherPresenceChannelMember]
+  @objc open var onMemberAdded: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)?
+  @objc open var onMemberRemoved: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)?
+  @objc open var myId: Swift.String?
+  @objc open func findMember(userId: Swift.String) -> PusherSwift.PusherPresenceChannelMember?
+  @objc open func me() -> PusherSwift.PusherPresenceChannelMember?
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objcMembers @objc public class OCPusherHost : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc public init(host: Swift.String)
+  @objc public init(cluster: Swift.String)
+  @objc deinit
+}
+@objc public protocol AuthRequestBuilderProtocol {
+  @objc optional func requestFor(socketID: Swift.String, channelName: Swift.String) -> Foundation.URLRequest?
+}
+public enum AuthMethod {
+  case endpoint(authEndpoint: Swift.String)
+  case authRequestBuilder(authRequestBuilder: PusherSwift.AuthRequestBuilderProtocol)
+  case authorizer(authorizer: PusherSwift.Authorizer)
+  case inline(secret: Swift.String)
+  case noMethod
+}
+@objcMembers @objc open class Pusher : ObjectiveC.NSObject {
+  @objc final public let connection: PusherSwift.PusherConnection
+  @objc weak open var delegate: PusherSwift.PusherDelegate? {
+    @objc get
+    @objc set
+  }
+  @objc public init(key: Swift.String, options: PusherSwift.PusherClientOptions = PusherClientOptions())
+  @objc open func subscribe(_ channelName: Swift.String, auth: PusherSwift.PusherAuth? = nil, onMemberAdded: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)? = nil, onMemberRemoved: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)? = nil, onSubscriptionCountChanged: ((Swift.Int) -> Swift.Void)? = nil) -> PusherSwift.PusherChannel
+  @objc open func subscribeToPresenceChannel(channelName: Swift.String, auth: PusherSwift.PusherAuth? = nil, onMemberAdded: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)? = nil, onMemberRemoved: ((PusherSwift.PusherPresenceChannelMember) -> Swift.Void)? = nil, onSubscriptionCountChanged: ((Swift.Int) -> Swift.Void)? = nil) -> PusherSwift.PusherPresenceChannel
+  @objc open func unsubscribe(_ channelName: Swift.String)
+  @objc open func unsubscribeAll()
+  @objc @discardableResult
+  open func bind(eventCallback: @escaping (PusherSwift.PusherEvent) -> Swift.Void) -> Swift.String
+  @objc open func unbind(callbackId: Swift.String)
+  @objc open func unbindAll()
+  @objc open func disconnect()
+  @objc open func connect()
+  @objc deinit
+}
+extension PusherSwift.PusherChannelType : Swift.Equatable {}
+extension PusherSwift.PusherChannelType : Swift.Hashable {}
+extension PusherSwift.ConnectionState : Swift.Equatable {}
+extension PusherSwift.ConnectionState : Swift.Hashable {}
+extension PusherSwift.ConnectionState : Swift.RawRepresentable {}

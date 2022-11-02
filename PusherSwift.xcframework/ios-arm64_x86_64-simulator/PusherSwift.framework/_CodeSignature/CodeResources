@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PusherSwift-Swift.h</key>
 		<data>
-		wVkE7PUc2BISQKm2j0hN13pwYJM=
+		cZlwNnlOZwS8nKl9R2ttiQS/sts=
 		</data>
 		<key>Headers/PusherSwift.h</key>
 		<data>
@@ -18,35 +18,51 @@
 		</data>
 		<key>Modules/PusherSwift.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		mANrjqlPCnHeiUxrkdzDxWndxrs=
+		bzaAfEs2gWy6kHXxHzREkPd5hcc=
 		</data>
 		<key>Modules/PusherSwift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		EvCUMWm2M69XPf/G8mzxzeXa42I=
+		7XYjpN+dH/atPn5f53IouWHtQqU=
 		</data>
 		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		7+ZyCvXqOdIG0bkYFDViUxOpepg=
+		</data>
+		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		yRhi93qoyfZHU5Z21AJnyCkbehI=
 		</data>
 		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		IonoVXNtyLRFmy9QyIXVqVZMQDE=
 		</data>
+		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		yRhi93qoyfZHU5Z21AJnyCkbehI=
+		</data>
 		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pUjLW7gSQNVTYIsvtFS+y1/RYmQ=
+		cmwk4q0oL4jtRzhilNrdFMjqQXw=
 		</data>
 		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		7+ZyCvXqOdIG0bkYFDViUxOpepg=
+		</data>
+		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		evuajTQchjypoSzdedhAVXzWZVA=
 		</data>
 		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		U4lCPZWjPCZFkIYZFmDWW2W7+FY=
 		</data>
+		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		evuajTQchjypoSzdedhAVXzWZVA=
+		</data>
 		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lEC/r+FEKkfAbS26X8KUTqs5Muc=
+		83w06J7d7kf1bvv5xgRwhbtYtA8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cysrfvRPHiU1lHcrOjc1R0sOt4bac7Qru0Z2b8RKa8o=
+			gJFrvI20DE+zPPE/Hgx7bdqLeuZjVAkE/5Qax6JShjc=
 			</data>
 		</dict>
 		<key>Headers/PusherSwift.h</key>
@@ -73,21 +89,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eqJnjOPSgJywGh41mQzZJrZDxWBn04h8WjAg4w1AdQs=
+			n+7innJwX4lFkA0BUNA0Ji6DVEdHumrP4E6lclFl30Y=
 			</data>
 		</dict>
 		<key>Modules/PusherSwift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7XnAzP49qngL6NiCdZyI7CcA6hTSYuRCa48Fi+0sUzc=
+			FAU2FAAmXF31bDPkOrXSwI1wKI2mVAg2BI00kILKBjA=
 			</data>
 		</dict>
 		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			T84J2X2kN6PVDKwc5KT7k/EGpH6mB1E3mIQlgHybqzc=
+			</data>
+		</dict>
+		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AsuuLaW87WxO7xFiQDxn1DUS2rAgWnToXwlOA5/B6ic=
 			</data>
 		</dict>
 		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -97,18 +120,32 @@
 			bVi6DomngTE8FZzwOxTr1Yzbh/ektxXb2ITWVTbRGLg=
 			</data>
 		</dict>
+		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AsuuLaW87WxO7xFiQDxn1DUS2rAgWnToXwlOA5/B6ic=
+			</data>
+		</dict>
 		<key>Modules/PusherSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			is4ZVs8GG4rWarjpVgaFb8abRJYlpvXiEBpy5vqGAi0=
+			a+pW5PawTY7jkmiWXttIMF2U2PXXUN4gS9lLSCsO3iY=
 			</data>
 		</dict>
 		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			T84J2X2kN6PVDKwc5KT7k/EGpH6mB1E3mIQlgHybqzc=
+			</data>
+		</dict>
+		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WOllSmy77XesOCy2Qi7ioxGnVEcpCrVf0ZAxcrYcoZk=
 			</data>
 		</dict>
 		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -118,11 +155,18 @@
 			lbAUYGGCq7YCZ19hLxL8mgnRPgD+0/QmuAtQpTDXG5c=
 			</data>
 		</dict>
+		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WOllSmy77XesOCy2Qi7ioxGnVEcpCrVf0ZAxcrYcoZk=
+			</data>
+		</dict>
 		<key>Modules/PusherSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vy3NujFUqnJet3ubXjbUbRRFIawYtpEsxIIxpQ6P9f0=
+			TA5jZOCfkGGe2/B7Abi0FdPzmB2VLozREObS6ZhzKgE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

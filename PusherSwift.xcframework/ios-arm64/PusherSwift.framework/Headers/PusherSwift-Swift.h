@@ -268,7 +268,7 @@ SWIFT_PROTOCOL("_TtP11PusherSwift10Authorizer_")
 - (void)fetchAuthValueWithSocketID:(NSString * _Nonnull)socketID channelName:(NSString * _Nonnull)channelName completionHandler:(void (^ _Nonnull)(PusherAuth * _Nullable))completionHandler;
 @end
 
-typedef SWIFT_ENUM(NSInteger, ConnectionState, closed) {
+typedef SWIFT_ENUM(NSInteger, ConnectionState, open) {
   ConnectionStateConnecting = 0,
   ConnectionStateConnected = 1,
   ConnectionStateDisconnecting = 2,
