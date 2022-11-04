@@ -10906,1379 +10906,1379 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1121,
       "length": 24,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1311,
       "length": 20,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1528,
       "length": 7,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1121,
       "length": 24,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1311,
       "length": 20,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 1528,
       "length": 7,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2023,
       "length": 4,
       "value": "4000"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2078,
       "length": 4,
       "value": "4001"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2133,
       "length": 4,
       "value": "4003"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2188,
       "length": 4,
       "value": "4004"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2243,
       "length": 4,
       "value": "4005"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2298,
       "length": 4,
       "value": "4006"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2353,
       "length": 4,
       "value": "4007"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2408,
       "length": 4,
       "value": "4008"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2463,
       "length": 4,
       "value": "4009"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2538,
       "length": 4,
       "value": "4100"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2613,
       "length": 4,
       "value": "4200"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2732,
       "length": 4,
       "value": "4201"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2900,
       "length": 4,
       "value": "4202"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2023,
       "length": 4,
       "value": "4000"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2078,
       "length": 4,
       "value": "4001"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2133,
       "length": 4,
       "value": "4003"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2188,
       "length": 4,
       "value": "4004"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2243,
       "length": 4,
       "value": "4005"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2298,
       "length": 4,
       "value": "4006"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2353,
       "length": 4,
       "value": "4007"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2408,
       "length": 4,
       "value": "4008"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2463,
       "length": 4,
       "value": "4009"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2538,
       "length": 4,
       "value": "4100"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2613,
       "length": 4,
       "value": "4200"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2732,
       "length": 4,
       "value": "4201"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2900,
       "length": 4,
       "value": "4202"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2023,
       "length": 4,
       "value": "4000"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2078,
       "length": 4,
       "value": "4001"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2133,
       "length": 4,
       "value": "4003"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2188,
       "length": 4,
       "value": "4004"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2243,
       "length": 4,
       "value": "4005"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2298,
       "length": 4,
       "value": "4006"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2353,
       "length": 4,
       "value": "4007"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2408,
       "length": 4,
       "value": "4008"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2463,
       "length": 4,
       "value": "4009"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2538,
       "length": 4,
       "value": "4100"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2613,
       "length": 4,
       "value": "4200"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2732,
       "length": 4,
       "value": "4201"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ChannelsProtocolCloseCode.swift",
       "kind": "IntegerLiteral",
       "offset": 2900,
       "length": 4,
       "value": "4202"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 124,
       "length": 18,
       "value": "\"ws.pusherapp.com\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 185,
       "length": 12,
       "value": "\"pusher.com\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 267,
       "length": 10,
       "value": "\"presence\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 316,
       "length": 9,
       "value": "\"private\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 364,
       "length": 19,
       "value": "\"private-encrypted\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 481,
       "length": 31,
       "value": "\"pusher:connection_established\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 563,
       "length": 14,
       "value": "\"pusher:error\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 628,
       "length": 18,
       "value": "\"pusher:subscribe\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 697,
       "length": 20,
       "value": "\"pusher:unsubscribe\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 768,
       "length": 27,
       "value": "\"pusher:subscription_error\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 846,
       "length": 31,
       "value": "\"pusher:subscription_succeeded\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 969,
       "length": 30,
       "value": "\"pusher_internal:member_added\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1050,
       "length": 32,
       "value": "\"pusher_internal:member_removed\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1133,
       "length": 40,
       "value": "\"pusher_internal:subscription_succeeded\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1224,
       "length": 36,
       "value": "\"pusher_internal:subscription_count\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1338,
       "length": 8,
       "value": "\"client\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1385,
       "length": 8,
       "value": "\"pusher\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1432,
       "length": 17,
       "value": "\"pusher_internal\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1516,
       "length": 18,
       "value": "\"activity_timeout\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1574,
       "length": 6,
       "value": "\"auth\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1620,
       "length": 9,
       "value": "\"channel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1669,
       "length": 14,
       "value": "\"channel_data\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1723,
       "length": 12,
       "value": "\"ciphertext\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1775,
       "length": 6,
       "value": "\"code\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1821,
       "length": 6,
       "value": "\"data\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1867,
       "length": 7,
       "value": "\"event\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1914,
       "length": 6,
       "value": "\"hash\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1960,
       "length": 9,
       "value": "\"message\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2009,
       "length": 7,
       "value": "\"nonce\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2056,
       "length": 10,
       "value": "\"presence\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2106,
       "length": 11,
       "value": "\"socket_id\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2157,
       "length": 15,
       "value": "\"shared_secret\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2212,
       "length": 9,
       "value": "\"user_id\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2261,
       "length": 11,
       "value": "\"user_info\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2312,
       "length": 20,
       "value": "\"subscription_count\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "IntegerLiteral",
       "offset": 645,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "IntegerLiteral",
       "offset": 696,
       "length": 3,
       "value": "120"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "IntegerLiteral",
       "offset": 961,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "BooleanLiteral",
       "offset": 1162,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "BooleanLiteral",
       "offset": 1275,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "BooleanLiteral",
       "offset": 1436,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "StringLiteral",
       "offset": 119,
       "length": 16,
       "value": "\"PusherSwift.PusherConnection\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
       "kind": "BooleanLiteral",
       "offset": 226,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
       "kind": "BooleanLiteral",
       "offset": 355,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
       "kind": "BooleanLiteral",
       "offset": 805,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
       "kind": "BooleanLiteral",
       "offset": 841,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/ObjC\/PusherClientOptions+ObjectiveC.swift",
       "kind": "BooleanLiteral",
       "offset": 970,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherError.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherError.swift",
       "kind": "StringLiteral",
       "offset": 43,
       "length": 11,
       "value": "\"PusherSwift.PusherError\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "IntegerLiteral",
       "offset": 89,
       "length": 9,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "IntegerLiteral",
       "offset": 108,
       "length": 13,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "IntegerLiteral",
       "offset": 131,
       "length": 12,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "IntegerLiteral",
       "offset": 153,
       "length": 12,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "StringLiteral",
       "offset": 223,
       "length": 12,
       "value": "\"connecting\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "StringLiteral",
       "offset": 256,
       "length": 11,
       "value": "\"connected\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "StringLiteral",
       "offset": 292,
       "length": 15,
       "value": "\"disconnecting\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "StringLiteral",
       "offset": 331,
       "length": 14,
       "value": "\"disconnected\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "StringLiteral",
       "offset": 369,
       "length": 14,
       "value": "\"reconnecting\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "IntegerLiteral",
       "offset": 89,
       "length": 9,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "IntegerLiteral",
       "offset": 108,
       "length": 13,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "IntegerLiteral",
       "offset": 131,
       "length": 12,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/ConnectionState.swift",
       "kind": "IntegerLiteral",
       "offset": 153,
       "length": 12,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
       "kind": "StringLiteral",
       "offset": 341,
       "length": 68,
       "value": "\"com.pusher.pusherswift-channel-event-handlers-\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
       "kind": "StringLiteral",
       "offset": 408,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
       "kind": "BooleanLiteral",
       "offset": 986,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
       "kind": "StringLiteral",
       "offset": 1427,
       "length": 68,
       "value": "\"com.pusher.pusherswift-channel-decryption-key-\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
       "kind": "StringLiteral",
       "offset": 1494,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannel.swift",
       "kind": "StringLiteral",
       "offset": 43,
       "length": 13,
       "value": "\"PusherSwift.PusherChannel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannels.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannels.swift",
       "kind": "StringLiteral",
       "offset": 346,
       "length": 54,
       "value": "\"com.pusher.pusherswift-channels-\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannels.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherChannels.swift",
       "kind": "StringLiteral",
       "offset": 399,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherGlobalChannel.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherGlobalChannel.swift",
       "kind": "Dictionary",
       "offset": 144,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherGlobalChannel.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherGlobalChannel.swift",
       "kind": "StringLiteral",
       "offset": 49,
       "length": 13,
       "value": "\"PusherSwift.GlobalChannel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherAuth.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherAuth.swift",
       "kind": "StringLiteral",
       "offset": 38,
       "length": 10,
       "value": "\"PusherSwift.PusherAuth\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/ObjC\/OCAuthMethod.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/ObjC\/OCAuthMethod.swift",
       "kind": "StringLiteral",
       "offset": 51,
       "length": 12,
       "value": "\"PusherSwift.OCAuthMethod\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherClientOptions.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherClientOptions.swift",
       "kind": "BooleanLiteral",
       "offset": 472,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherClientOptions.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherClientOptions.swift",
       "kind": "BooleanLiteral",
       "offset": 508,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherClientOptions.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherClientOptions.swift",
       "kind": "BooleanLiteral",
       "offset": 633,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherClientOptions.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherClientOptions.swift",
       "kind": "StringLiteral",
       "offset": 51,
       "length": 19,
       "value": "\"PusherSwift.PusherClientOptions\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherEvent.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherEvent.swift",
       "kind": "StringLiteral",
       "offset": 43,
       "length": 11,
       "value": "\"PusherSwift.PusherEvent\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 311,
       "length": 79,
       "value": "\"Attempting to subscribe to presence channel but no channelData value provided\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 443,
       "length": 67,
       "value": "\"Subscription succeeded event received without data key in payload\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 553,
       "length": 33,
       "value": "\"Unable to subscribe to channel:\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 629,
       "length": 33,
       "value": "\"Unable to add member to channel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 710,
       "length": 38,
       "value": "\"Unable to remove member from channel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 798,
       "length": 58,
       "value": "\"Auth info passed to authorizer completionHandler was nil\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 893,
       "length": 49,
       "value": "\"Authentication failed. You may not be connected\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 994,
       "length": 260,
       "value": "\"Passing an auth value to 'subscribe' is not supported for encrypted channels. Event decryption will fail. You must use one of the following auth methods: 'endpoint', 'authRequestBuilder', 'authorizer'\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1306,
       "length": 17,
       "value": "\"sendClientEvent\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1349,
       "length": 11,
       "value": "\"sendEvent\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1411,
       "length": 50,
       "value": "\"Skipping event that failed to decrypt on channel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1509,
       "length": 79,
       "value": "\"You must be subscribed to a private or presence channel to send client events\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1629,
       "length": 56,
       "value": "\"Client events are not supported on encrypted channels:\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1753,
       "length": 33,
       "value": "\"Unable to parse string as JSON:\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1833,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1896,
       "length": 34,
       "value": "\"Network connection became viable\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1972,
       "length": 36,
       "value": "\"Network connection became unviable\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2079,
       "length": 39,
       "value": "\"Attempting to reconnect after waiting\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2165,
       "length": 37,
       "value": "\"Attempting to reconnect immediately\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2240,
       "length": 36,
       "value": "\"Socket established with socket ID:\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2318,
       "length": 49,
       "value": "\"Websocket is disconnected but no error received\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2397,
       "length": 27,
       "value": "\"Websocket received error.\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2465,
       "length": 56,
       "value": "\"Deliberate disconnection - skipping reconnect attempts\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2570,
       "length": 32,
       "value": "\"Max reconnect attempts reached\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2627,
       "length": 11,
       "value": "\"Ping sent\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2667,
       "length": 25,
       "value": "\"Websocket received pong\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2724,
       "length": 28,
       "value": "\"websocketDidReceiveMessage\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2796,
       "length": 33,
       "value": "\"Unable to handle incoming error\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2875,
       "length": 45,
       "value": "\"Unable to handle incoming Websocket message\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 311,
       "length": 79,
       "value": "\"Attempting to subscribe to presence channel but no channelData value provided\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 443,
       "length": 67,
       "value": "\"Subscription succeeded event received without data key in payload\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 553,
       "length": 33,
       "value": "\"Unable to subscribe to channel:\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 629,
       "length": 33,
       "value": "\"Unable to add member to channel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 710,
       "length": 38,
       "value": "\"Unable to remove member from channel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 798,
       "length": 58,
       "value": "\"Auth info passed to authorizer completionHandler was nil\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 893,
       "length": 49,
       "value": "\"Authentication failed. You may not be connected\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 994,
       "length": 260,
       "value": "\"Passing an auth value to 'subscribe' is not supported for encrypted channels. Event decryption will fail. You must use one of the following auth methods: 'endpoint', 'authRequestBuilder', 'authorizer'\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1306,
       "length": 17,
       "value": "\"sendClientEvent\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1349,
       "length": 11,
       "value": "\"sendEvent\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1411,
       "length": 50,
       "value": "\"Skipping event that failed to decrypt on channel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1509,
       "length": 79,
       "value": "\"You must be subscribed to a private or presence channel to send client events\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1629,
       "length": 56,
       "value": "\"Client events are not supported on encrypted channels:\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1753,
       "length": 33,
       "value": "\"Unable to parse string as JSON:\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1833,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1896,
       "length": 34,
       "value": "\"Network connection became viable\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1972,
       "length": 36,
       "value": "\"Network connection became unviable\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2079,
       "length": 39,
       "value": "\"Attempting to reconnect after waiting\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2165,
       "length": 37,
       "value": "\"Attempting to reconnect immediately\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2240,
       "length": 36,
       "value": "\"Socket established with socket ID:\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2318,
       "length": 49,
       "value": "\"Websocket is disconnected but no error received\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2397,
       "length": 27,
       "value": "\"Websocket received error.\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2465,
       "length": 56,
       "value": "\"Deliberate disconnection - skipping reconnect attempts\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2570,
       "length": 32,
       "value": "\"Max reconnect attempts reached\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2627,
       "length": 11,
       "value": "\"Ping sent\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2667,
       "length": 25,
       "value": "\"Websocket received pong\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2724,
       "length": 28,
       "value": "\"websocketDidReceiveMessage\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2796,
       "length": 33,
       "value": "\"Unable to handle incoming error\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2875,
       "length": 45,
       "value": "\"Unable to handle incoming Websocket message\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2986,
       "length": 16,
       "value": "\"[PUSHER DEBUG]\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 3029,
       "length": 15,
       "value": "\"[PUSHER INFO]\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 3071,
       "length": 18,
       "value": "\"[PUSHER WARNING]\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 3116,
       "length": 16,
       "value": "\"[PUSHER ERROR]\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 2986,
       "length": 16,
       "value": "\"[PUSHER DEBUG]\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 3029,
       "length": 15,
       "value": "\"[PUSHER INFO]\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 3071,
       "length": 18,
       "value": "\"[PUSHER WARNING]\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Helpers\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 3116,
       "length": 16,
       "value": "\"[PUSHER ERROR]\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherPresenceChannelMember.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherPresenceChannelMember.swift",
       "kind": "StringLiteral",
       "offset": 51,
       "length": 27,
       "value": "\"PusherSwift.PusherPresenceChannelMember\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/ChannelEventQueue.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Services\/ChannelEventQueue.swift",
       "kind": "StringLiteral",
       "offset": 214,
       "length": 57,
       "value": "\"com.pusher.pusherswift-event-queue-\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/ChannelEventQueue.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Services\/ChannelEventQueue.swift",
       "kind": "StringLiteral",
       "offset": 270,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Models\/PusherPresenceChannel.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/Models\/PusherPresenceChannel.swift",
       "kind": "StringLiteral",
       "offset": 110,
       "length": 21,
       "value": "\"PusherSwift.PusherPresenceChannel\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/PusherSwift.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/PusherSwift.swift",
       "kind": "IntegerLiteral",
       "offset": 53,
       "length": 1,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/PusherSwift.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/PusherSwift.swift",
       "kind": "StringLiteral",
       "offset": 69,
       "length": 8,
       "value": "\"10.1.1\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/PusherSwift.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/PusherSwift.swift",
       "kind": "StringLiteral",
       "offset": 138,
       "length": 24,
       "value": "\"pusher-websocket-swift\""
     },
     {
-      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/PusherSwift.swift",
+      "filePath": "\/Users\/afsar\/Downloads\/Temp\/Carthage\/OldCheckouts\/pusher-websocket-swift\/Sources\/PusherSwift.swift",
       "kind": "StringLiteral",
       "offset": 194,
       "length": 6,
