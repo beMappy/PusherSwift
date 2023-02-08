@@ -19,7 +19,7 @@ import _StringProcessing
   @objc open var socketId: Swift.String?
   @objc open var connectionState: PusherSwift.ConnectionState
   @objc open var channels: PusherSwift.PusherChannels
-  open var socket: NWWebSocket.NWWebSocket!
+  open var socket: NWWebSocket.NWWebSocketService!
   @objc open var URLSession: Foundation.URLSession
   @objc open var userDataFetcher: (() -> PusherSwift.PusherPresenceChannelMember)?
   open var reconnectAttemptsMax: Swift.Int?
@@ -31,7 +31,7 @@ import _StringProcessing
   }
   @objc open var pongResponseTimeoutInterval: Swift.Double
   @objc open var activityTimeoutInterval: Foundation.TimeInterval
-  public init(key: Swift.String, socket: NWWebSocket.NWWebSocket, url: Swift.String, options: PusherSwift.PusherClientOptions, URLSession: Foundation.URLSession = Foundation.URLSession.shared)
+  public init(key: Swift.String, socket: NWWebSocket.NWWebSocketService, url: Swift.String, options: PusherSwift.PusherClientOptions, URLSession: Foundation.URLSession = Foundation.URLSession.shared)
   @objc deinit
   @objc open func sendEvent(event: Swift.String, data: Any, channel: PusherSwift.PusherChannel? = nil)
   @objc open func disconnect()

@@ -677,21 +677,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "NWWebSocket.NWWebSocket?",
+                "printedName": "NWWebSocket.NWWebSocketService?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "NWWebSocket",
-                    "printedName": "NWWebSocket.NWWebSocket",
-                    "usr": "s:11NWWebSocketAAC"
+                    "name": "NWWebSocketService",
+                    "printedName": "NWWebSocket.NWWebSocketService",
+                    "usr": "s:11NWWebSocket0aB7ServiceC"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:11PusherSwift0A10ConnectionC6socket11NWWebSocketAECSgvp",
-            "mangledName": "$s11PusherSwift0A10ConnectionC6socket11NWWebSocketAECSgvp",
+            "usr": "s:11PusherSwift0A10ConnectionC6socket11NWWebSocket0eF7ServiceCSgvp",
+            "mangledName": "$s11PusherSwift0A10ConnectionC6socket11NWWebSocket0eF7ServiceCSgvp",
             "moduleName": "PusherSwift",
             "isOpen": true,
             "declAttributes": [
@@ -709,21 +709,21 @@
                   {
                     "kind": "TypeNominal",
                     "name": "ImplicitlyUnwrappedOptional",
-                    "printedName": "NWWebSocket.NWWebSocket?",
+                    "printedName": "NWWebSocket.NWWebSocketService?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "NWWebSocket",
-                        "printedName": "NWWebSocket.NWWebSocket",
-                        "usr": "s:11NWWebSocketAAC"
+                        "name": "NWWebSocketService",
+                        "printedName": "NWWebSocket.NWWebSocketService",
+                        "usr": "s:11NWWebSocket0aB7ServiceC"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11PusherSwift0A10ConnectionC6socket11NWWebSocketAECSgvg",
-                "mangledName": "$s11PusherSwift0A10ConnectionC6socket11NWWebSocketAECSgvg",
+                "usr": "s:11PusherSwift0A10ConnectionC6socket11NWWebSocket0eF7ServiceCSgvg",
+                "mangledName": "$s11PusherSwift0A10ConnectionC6socket11NWWebSocket0eF7ServiceCSgvg",
                 "moduleName": "PusherSwift",
                 "implicit": true,
                 "isOpen": true,
@@ -742,21 +742,21 @@
                   {
                     "kind": "TypeNominal",
                     "name": "ImplicitlyUnwrappedOptional",
-                    "printedName": "NWWebSocket.NWWebSocket?",
+                    "printedName": "NWWebSocket.NWWebSocketService?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "NWWebSocket",
-                        "printedName": "NWWebSocket.NWWebSocket",
-                        "usr": "s:11NWWebSocketAAC"
+                        "name": "NWWebSocketService",
+                        "printedName": "NWWebSocket.NWWebSocketService",
+                        "usr": "s:11NWWebSocket0aB7ServiceC"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11PusherSwift0A10ConnectionC6socket11NWWebSocketAECSgvs",
-                "mangledName": "$s11PusherSwift0A10ConnectionC6socket11NWWebSocketAECSgvs",
+                "usr": "s:11PusherSwift0A10ConnectionC6socket11NWWebSocket0eF7ServiceCSgvs",
+                "mangledName": "$s11PusherSwift0A10ConnectionC6socket11NWWebSocket0eF7ServiceCSgvs",
                 "moduleName": "PusherSwift",
                 "implicit": true,
                 "isOpen": true,
@@ -774,8 +774,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11PusherSwift0A10ConnectionC6socket11NWWebSocketAECSgvM",
-                "mangledName": "$s11PusherSwift0A10ConnectionC6socket11NWWebSocketAECSgvM",
+                "usr": "s:11PusherSwift0A10ConnectionC6socket11NWWebSocket0eF7ServiceCSgvM",
+                "mangledName": "$s11PusherSwift0A10ConnectionC6socket11NWWebSocket0eF7ServiceCSgvM",
                 "moduleName": "PusherSwift",
                 "implicit": true,
                 "isOpen": true,
@@ -1687,9 +1687,9 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "NWWebSocket",
-                "printedName": "NWWebSocket.NWWebSocket",
-                "usr": "s:11NWWebSocketAAC"
+                "name": "NWWebSocketService",
+                "printedName": "NWWebSocket.NWWebSocketService",
+                "usr": "s:11NWWebSocket0aB7ServiceC"
               },
               {
                 "kind": "TypeNominal",
@@ -1712,8 +1712,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:11PusherSwift0A10ConnectionC3key6socket3url7options10URLSessionACSS_11NWWebSocketAICSSAA0A13ClientOptionsCSo12NSURLSessionCtcfc",
-            "mangledName": "$s11PusherSwift0A10ConnectionC3key6socket3url7options10URLSessionACSS_11NWWebSocketAICSSAA0A13ClientOptionsCSo12NSURLSessionCtcfc",
+            "usr": "s:11PusherSwift0A10ConnectionC3key6socket3url7options10URLSessionACSS_11NWWebSocket0iJ7ServiceCSSAA0A13ClientOptionsCSo12NSURLSessionCtcfc",
+            "mangledName": "$s11PusherSwift0A10ConnectionC3key6socket3url7options10URLSessionACSS_11NWWebSocket0iJ7ServiceCSSAA0A13ClientOptionsCSo12NSURLSessionCtcfc",
             "moduleName": "PusherSwift",
             "declAttributes": [
               "AccessControl",
@@ -11468,42 +11468,42 @@
     {
       "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "IntegerLiteral",
-      "offset": 645,
+      "offset": 652,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "IntegerLiteral",
-      "offset": 696,
+      "offset": 703,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "IntegerLiteral",
-      "offset": 961,
+      "offset": 968,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "BooleanLiteral",
-      "offset": 1162,
+      "offset": 1169,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "BooleanLiteral",
-      "offset": 1275,
+      "offset": 1282,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/afsar\/Downloads\/Temp3\/Carthage\/Checkouts\/pusher-websocket-swift\/Sources\/Services\/PusherConnection.swift",
       "kind": "BooleanLiteral",
-      "offset": 1436,
+      "offset": 1443,
       "length": 5,
       "value": "false"
     },
