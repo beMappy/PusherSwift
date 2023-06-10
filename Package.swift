@@ -24,7 +24,9 @@ let package = Package(
         .target(
             name: "PusherSwiftWrapper",
             dependencies: [
-                .target(name: "PusherSwift")
+                .target(name: "PusherSwift"),
+                .product(name: "TweetNacl", package: "TweetNacl"),
+                .product(name: "NWWebSocket", package: "NWWebSocket"),
             ]
         ),
         .binaryTarget(
