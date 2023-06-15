@@ -13,12 +13,8 @@ let package = Package(
             targets: ["PusherSwiftWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/beMappy/TweetNacl", branch: "SPM"),
-        .package(url: "https://github.com/beMappy/NWWebSocket", branch: "SPM"),
-        /*
         .package(url: "https://github.com/beMappy/TweetNacl", exact: "1.0.2-xc14.2-2"),
-        .package(url: "https://github.com/beMappy/NWWebSocket", exact: "0.5.2-xc14.2-"),
-        */
+        .package(url: "https://github.com/beMappy/NWWebSocket", exact: "0.5.2-xc14.2-2"),
     ],
     targets: [
         .target(
